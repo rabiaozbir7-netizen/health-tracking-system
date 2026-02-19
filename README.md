@@ -49,7 +49,3 @@ Kategorilere ayrılmış egzersizler, puan sistemi ve ilerleme takibi ile motiva
 
 Bu proje, mobil uygulama geliştirme pratiği yapmak ve  
 stres azaltmaya yönelik basit ama etkili bir dijital çözüm sunmak amacıyla geliştirilmiştir.
-
-
-npm start
-
